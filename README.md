@@ -1,6 +1,6 @@
-# luislopez66
+# luislopez66's GitHub Page
 
-# Welcome to my first GitHub page.
+# Welcome to my first, created GitHub page.
 
 <html>
 <title>W3.CSS Template</title>
@@ -58,15 +58,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>PHP</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:15%">15%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">15%</div>
           </div>
           <p>Pyret</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:10%">5%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">5%</div>
           </div>
           <p>Java</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:5%">2%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">2%</div>
           </div>
           <br>
 
