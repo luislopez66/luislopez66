@@ -52,19 +52,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>SQL</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">20%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">20%</div>
           </div>
           <p>PHP</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">15%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">15%</div>
           </div>
           <p>Pyret</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">5%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">5%</div>
           </div>
           <p>Java</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">2%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">2%</div>
           </div>
           <br>
 
@@ -75,11 +75,11 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>Spanish</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:30%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:40%"></div>
           </div>
           <p>French</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-teal" style="height:24px;width:30%"></div>
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:20%"></div>
           </div>
       </div><br>
 
@@ -91,7 +91,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h4 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h4>
-          <p>I have no working experience yet.</p></div>
+          <p>Not yet.</p></div>
         
 
       <div class="w3-container w3-card w3-white">
