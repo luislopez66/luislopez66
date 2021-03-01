@@ -1,7 +1,5 @@
 # Luis's GitHub Page
 
-# Welcome to my first GitHub page.
-
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -12,6 +10,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
+  <p> Welcome to my first GitHub page!</p>
 <body class="w3-light-grey">
 
 <!-- Page Container -->
