@@ -1,6 +1,4 @@
-# luislopez66's GitHub Page
-
-# Welcome to my first, created GitHub page.
+# Welcome to my first GitHub page.
 
 <html>
 <title>W3.CSS Template</title>
