@@ -2,7 +2,7 @@
 
 # Welcome to my first GitHub page.
 
-<html>
+<-- <html> -->
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -131,5 +131,5 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
 </footer>
 
-<!--</body> -->
-</html>
+<!-- </body> -->
+<!-- </html> -->
