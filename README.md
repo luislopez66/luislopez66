@@ -1,6 +1,7 @@
 # luislopez66
- 
- <!DOCTYPE html>
+
+# Welcome to my first GitHub page.
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -105,7 +106,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>University of Puerto Rico, Rio Piedras Campus</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014 - <span class="w3-tag w3-teal w3-round">Current</span></h6></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Bachelor Degree</p><br>
         </div>
       </div>
