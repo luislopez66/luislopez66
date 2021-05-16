@@ -39,33 +39,33 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Programming languages that I'm learning</b></p>
           <p>Python</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">95%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:95%">90%</div>
           </div>
           <p>C++</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:95%">
               <div class="w3-center w3-text-white">90%</div>
             </div>
           </div>
           <p>R</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">78%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">80%</div>
           </div>
           <p>SQL</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">20%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">25%</div>
           </div>
           <p>PHP</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">15%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">20%</div>
           </div>
           <p>Pyret</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">10%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">15%</div>
           </div>
           <p>Java</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">5%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:20%">15%</div>
           </div>
           <br>
 
